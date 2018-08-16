@@ -1,0 +1,17 @@
+class Task {
+
+-task_id
+-task_name
+-created_at
+-last_updated_at
+-is_deleted
+
+}
+
+
+class TaskManager{
+
+
+}
+
+TaskManager *-- Task
